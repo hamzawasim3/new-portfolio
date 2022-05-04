@@ -148,11 +148,11 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Hamza Wasim and I enjoy developing Web Apps and Games for the World
-              Wide Web. My interest for Game Development started back in 2016 when I was exploring
+              Hello! My name is Hamza Wasim and I enjoy developing web apps and games for the World
+              Wide Web. My interest for game development started back in April 2016 when I was exploring
               various online game portals which made me curious to know how hard it is to develop a
-              game. Fast foward to June 2016, I developed my first Web Game! As my journey continued
-              as a Game Developer with more than 6 games on my portfolio, I also wanted to develop
+              game. Fast foward to June 2016, I developed my first web game! As my journey continued
+              as a game developer with more than 6 games on my portfolio, I also wanted to develop
               my own game portal where I can host all my games for my users which inspired me to
               start learning Web Development.
             </p>
@@ -162,7 +162,7 @@ const About = () => {
               <a href="https://withkoji.com/">Software Company</a>. My main focus these days is
               building new things and maintaining all operations of{' '}
               <a href="https://smart.joystick.club/">Joystick.club</a>, an early stage start-up,
-              developing cool stuff for Web 3.0 .
+              developing cool stuff for Web 3.0
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
