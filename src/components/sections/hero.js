@@ -60,7 +60,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Hamza Wasim.</h2>;
-  const three = <h2 className="">I develop robust Web Apps and fun to play Games.</h2>;
+  const three = <h2 className="">I develop robust web apps and fun to play games.</h2>;
   const four = (
     <>
       <p>
