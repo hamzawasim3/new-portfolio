@@ -75,7 +75,6 @@ const Hero = () => {
     <a
       className="email-link"
       href="https://hamzawasim.vercel.app/#projects"
-      target="_blank"
       rel="noreferrer">
       Check out my recent projects!
     </a>
