@@ -2,7 +2,7 @@
 date: '2017-04-01'
 title: 'Exclusive Author'
 company: 'Envato'
-location: 'Northeastern University'
+location: 'Remove'
 range: 'June 2016 - Present'
 url: 'https://codecanyon.net/user/hamzawasim3'
 ---
