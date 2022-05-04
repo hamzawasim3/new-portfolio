@@ -64,9 +64,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Web And Game Developer. I'm mainly focused on building robust web applications. I'm
-        well versed with Industry Level Web Frameworks along with Agile Tools and can develop Web
-        Application of any scale. I'm also well versed with several Game Frameworks/Engines and can
+        I'm a web and game developer. I mainly focus on building robust web applications. I'm
+        well versed with industry level web frameworks along with agile tools and can develop web
+        application of any scale. I'm also well versed with several game frameworks/engines and can
         develop any Web Game.
       </p>
     </>
@@ -74,7 +74,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.hamzawasim.net/#projects"
+      href="https://hamzawasim.vercel.app/#projects"
       target="_blank"
       rel="noreferrer">
       Check out my recent projects!
