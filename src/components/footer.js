@@ -109,8 +109,8 @@ const Footer = () => {
           <div>Made By Hamza Wasim</div>
         </a>
         <br />
-        <a href="https://github.com/bchiang7/v4">
-          <div>Forked From Brittany Chiang</div>
+        <a href="https://brittanychiang.com/">
+          <div>Original Creator: Brittany Chiang</div>
         </a>
       </StyledCredit>
     </StyledFooter>
