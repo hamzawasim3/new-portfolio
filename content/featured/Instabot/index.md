@@ -1,8 +1,8 @@
 ---
 date: '3'
-title: 'Instabot'
+title: 'Insta Quote Bot'
 cover: './demo.png'
-external: 'https://hamzawasim.net/projects/instabot/'
+external: 'https://hamzawasim.net/projects/instaquotebot/'
 tech:
   - PHP
   - Instagram Graph API
