@@ -1,11 +1,11 @@
 ---
-date: '2'
-title: 'Warp Speed'
+date: '3'
+title: 'Instabot'
 cover: './demo.png'
-external: 'https://hamzawasim.net/portfolio/warpspeed'
+external: 'https://hamzawasim.net/projects/instabot/'
 tech:
-  - Construct 2
-  - Self-made Custom Audio Plugin
+  - PHP
+  - Instagram Graph API
 ---
 
-A fun game where you need to avoid obstacles and pick up score points. As the game progesses the speed of the warp and background music increases!
+Insta Bot is a simple web app that can auto create an image with an inspirational quote and a background and then auto post the image to an Instagram Page.
